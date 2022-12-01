@@ -1,0 +1,7 @@
+/target
+/Cargo.lock
+/test-ledger
+/solana-movie-token-client/node_modules
+/solana-movie-token-client/.env
+/solana-student-intros-frontend/.next
+/solana-student-intros-frontend/node_modules
